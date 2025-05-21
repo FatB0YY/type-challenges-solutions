@@ -1,6 +1,6 @@
 # Решение задач `Type Challenges`
 
-Этот файл содержит решения и краткие описания задач из проекта [Type Challenges](https://github.com/type-challenges/type-challenges).  
+Этот репозиторий содержит решения и краткие описания задач из проекта [Type Challenges](https://github.com/type-challenges/type-challenges).  
 Каждый тип — это самостоятельное решение на уровне типов, повторяющее или расширяющее функциональность стандартных утилит TypeScript.
 
 ---
